@@ -1,0 +1,64 @@
+{
+  "autos": {
+    "Toyota Corolla": {
+      "Marca": "Toyota",
+      "Modelo": "Corolla",
+      "Año": 2023,
+      "ImagenURL": "https://di-uploads-pod7.dealerinspire.com/toyotaofnorthmiami/uploads/2022/10/2023-GR-Corolla-1.png"
+    },
+    "Honda Civic": {
+      "Marca": "Honda",
+      "Modelo": "Civic",
+      "Año": 2024,
+      "ImagenURL": "https://vehicle-images.dealerinspire.com/stock-images/chrome/7b86c6e9e60a2b8f14fd207fe964e40e.png"
+    },
+    "Ford Mustang": {
+      "Marca": "Ford",
+      "Modelo": "Mustang",
+      "Año": 2022,
+      "ImagenURL": "https://platform.cstatic-images.com/in/v2/stock_photos/6fc391c8-2e8b-4854-b84c-3c94c431fb19/ca5e1b68-4c6b-403b-b95a-a77a6f529da5.png"
+    },
+    "BMW X5": {
+      "Marca": "BMW",
+      "Modelo": "X5",
+      "Año": 2023,
+      "ImagenURL": "https://images.carprices.com/pricebooks_data/usa/colorized/2023/BMW/View2/X5_M/X5_M/23XK_300.png"
+    },
+    "Audi A4": {
+      "Marca": "Audi",
+      "Modelo": "A4",
+      "Año": 2023,
+      "ImagenURL": "https://images.dealer.com/ddc/vehicles/2023/Audi/A4/Sedan/perspective/front-left/2023_76.png"
+    },
+    "Mercedes-Benz C-Class": {
+      "Marca": "Mercedes-Benz",
+      "Modelo": "C-Class",
+      "Año": 2023,
+      "ImagenURL": "https://images.dealer.com/ddc/vehicles/2023/Mercedes-Benz/C-Class/Coupe/perspective/front-left/2023_24.png"
+    },
+    "Tesla Model S": {
+      "Marca": "Tesla",
+      "Modelo": "Model S",
+      "Año": 2024,
+      "ImagenURL": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/52152/2024-Tesla-Model%20S-front_52152_032_1822x709_PPSB_cropped.png"
+    },
+    "Volkswagen Golf": {
+      "Marca": "Volkswagen",
+      "Modelo": "Golf",
+      "Año": 2023,
+      "ImagenURL": "https://di-uploads-pod20.dealerinspire.com/hendrickvwfrisco/uploads/2023/02/mlp-img-top-2023-golf-r-temp.png"
+    },
+    "Subaru Outback": {
+      "Marca": "Subaru",
+      "Modelo": "Outback",
+      "Año": 2023,
+      "ImagenURL": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/51251/2023-Subaru-Outback-front_51251_032_1861x838_K1X_cropped.png"
+    },
+    "Nissan Altima": {
+      "Marca": "Nissan",
+      "Modelo": "Altima",
+      "Año": 2024,
+      "ImagenURL": "https://di-uploads-pod42.dealerinspire.com/southparknissan/uploads/2023/11/2024-nissan-altima-main.png"
+    }
+  }
+}
