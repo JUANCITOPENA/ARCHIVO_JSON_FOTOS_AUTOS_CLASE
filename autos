@@ -1,164 +1,164 @@
 [
-    {
-        "tipo": "Sedán 🚗",
-        "modelo": "Toyota Corolla",
-        "caracteristicas": "5 asientos, motor de 2.0L",
-        "imagen": "https://di-uploads-pod7.dealerinspire.com/toyotaofnorthmiami/uploads/2022/10/2023-GR-Corolla-1.png",
-        "numeroPuertas": 4,
-        "motor": "2.0L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "SUV 🚙",
-        "modelo": "Honda CR-V",
-        "caracteristicas": "7 asientos, tracción en las 4 ruedas",
-        "imagen": "https://vehicle-images.dealerinspire.com/stock-images/chrome/7b86c6e9e60a2b8f14fd207fe964e40e.png",
-        "numeroPuertas": 4,
-        "motor": "2.4L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Deportivo 🏎️",
-        "modelo": "Ford Mustang",
-        "caracteristicas": "Potente motor V8, diseño aerodinámico",
-        "imagen": "https://platform.cstatic-images.com/in/v2/stock_photos/6fc391c8-2e8b-4854-b84c-3c94c431fb19/ca5e1b68-4c6b-403b-b95a-a77a6f529da5.png",
-        "numeroPuertas": 2,
-        "motor": "V8",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Compacto 🚗",
-        "modelo": "Volkswagen Golf",
-        "caracteristicas": "4 asientos, económico y versátil",
-        "imagen": "https://di-uploads-pod20.dealerinspire.com/hendrickvwfrisco/uploads/2023/02/mlp-img-top-2023-golf-r-temp.png",
-        "numeroPuertas": 4,
-        "motor": "1.8L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Camioneta 🚚",
-        "modelo": "Ford Explorer",
-        "caracteristicas": "Capacidad para 7 pasajeros, tracción en las 4 ruedas",
-        "imagen": "FordExplorer.png",
-        "numeroPuertas": 4,
-        "motor": "3.5L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Deportivo 🏎️",
-        "modelo": "Chevrolet Camaro",
-        "caracteristicas": "Potente motor V8, diseño deportivo",
-        "imagen": "ChevroletCamaro.png",
-        "numeroPuertas": 2,
-        "motor": "V8",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Sedán 🚗",
-        "modelo": "Honda Civic",
-        "caracteristicas": "Espacioso y eficiente en combustible",
-        "imagen": "https://vehicle-images.dealerinspire.com/stock-images/chrome/7b86c6e9e60a2b8f14fd207fe964e40e.png",
-        "numeroPuertas": 4,
-        "motor": "1.5L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "SUV 🚙",
-        "modelo": "Toyota RAV4",
-        "caracteristicas": "Estilo deportivo, ideal para la aventura",
-        "imagen": "ToyotaRAV4.png",
-        "numeroPuertas": 4,
-        "motor": "2.5L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Hatchback 🚗",
-        "modelo": "Mazda 3",
-        "caracteristicas": "Diseño elegante y deportivo, excelente manejo",
-        "imagen": "Mazda_3.png",
-        "numeroPuertas": 4,
-        "motor": "2.0L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Pickup 🚛",
-        "modelo": "Ford F-150",
-        "caracteristicas": "Resistente y duradero, capacidad de remolque",
-        "imagen": "Ford_F_150.png",
-        "numeroPuertas": 4,
-        "motor": "5.0L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Coupé 🏎️",
-        "modelo": "BMW Serie 2",
-        "caracteristicas": "Lujo y rendimiento en un diseño compacto",
-        "imagen": "BMW_Serie_2.png",
-        "numeroPuertas": 2,
-        "motor": "3.0L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Furgoneta 🚐",
-        "modelo": "Mercedes-Benz Sprinter",
-        "caracteristicas": "Gran capacidad de carga, ideal para negocios",
-        "imagen": "Mercedes_Benz_Sprinter.png",
-        "numeroPuertas": 4,
-        "motor": "2.1L",
-        "combustible": "Diesel"
-    },
-    {
-        "tipo": "Convertible 🚗",
-        "modelo": "Chevrolet Corvette",
-        "caracteristicas": "Estilo clásico y potencia deslumbrante",
-        "imagen": "ChevroletCorvette.png",
-        "numeroPuertas": 2,
-        "motor": "6.2L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "SUV 🚙",
-        "modelo": "BMW X5",
-        "caracteristicas": "5 asientos, potente motor y tecnología avanzada",
-        "imagen": "https://images.carprices.com/pricebooks_data/usa/colorized/2023/BMW/View2/X5_M/X5_M/23XK_300.png",
-        "numeroPuertas": 4,
-        "motor": "3.0L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Sedán 🚗",
-        "modelo": "Audi A4",
-        "caracteristicas": "Diseño elegante, tecnología de punta",
-        "imagen": "https://images.dealer.com/ddc/vehicles/2023/Audi/A4/Sedan/perspective/front-left/2023_76.png",
-        "numeroPuertas": 4,
-        "motor": "2.0L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Sedán 🚗",
-        "modelo": "Mercedes-Benz C-Class",
-        "caracteristicas": "Lujo y rendimiento en cada detalle",
-        "imagen": "https://images.dealer.com/ddc/vehicles/2023/Mercedes-Benz/C-Class/Coupe/perspective/front-left/2023_24.png",
-        "numeroPuertas": 4,
-        "motor": "2.0L",
-        "combustible": "Gasolina"
-    },
-    {
-        "tipo": "Eléctrico 🚗",
-        "modelo": "Tesla Model S",
-        "caracteristicas": "Rendimiento eléctrico, autonomía de largo alcance",
-        "imagen": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/52152/2024-Tesla-Model%20S-front_52152_032_1822x709_PPSB_cropped.png",
-        "numeroPuertas": 4,
-        "motor": "Eléctrico",
-        "combustible": "Eléctrico"
-    },
-    {
-        "tipo": "Sedán 🚗",
-        "modelo": "Nissan Altima",
-        "caracteristicas": "Tecnología avanzada, diseño aerodinámico",
-        "imagen": "https://di-uploads-pod42.dealerinspire.com/southparknissan/uploads/2023/11/2024-nissan-altima-main.png",
-        "numeroPuertas": 4,
-        "motor": "2.5L",
-        "combustible": "Gasolina"
-    }
+  {
+    "tipo": "Sedán 🚗",
+    "modelo": "Toyota Corolla",
+    "caracteristicas": "5 asientos, motor de 2.0L",
+    "imagen": "https://di-uploads-pod7.dealerinspire.com/toyotaofnorthmiami/uploads/2022/10/2023-GR-Corolla-1.png",
+    "numeroPuertas": 4,
+    "motor": "2.0L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "SUV 🚙",
+    "modelo": "Honda CR-V",
+    "caracteristicas": "7 asientos, tracción en las 4 ruedas",
+    "imagen": "https://vehicle-images.dealerinspire.com/stock-images/chrome/7b86c6e9e60a2b8f14fd207fe964e40e.png",
+    "numeroPuertas": 4,
+    "motor": "2.4L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Deportivo 🏎️",
+    "modelo": "Ford Mustang",
+    "caracteristicas": "Potente motor V8, diseño aerodinámico",
+    "imagen": "https://platform.cstatic-images.com/in/v2/stock_photos/6fc391c8-2e8b-4854-b84c-3c94c431fb19/ca5e1b68-4c6b-403b-b95a-a77a6f529da5.png",
+    "numeroPuertas": 2,
+    "motor": "V8",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Compacto 🚗",
+    "modelo": "Volkswagen Golf",
+    "caracteristicas": "4 asientos, económico y versátil",
+    "imagen": "https://di-uploads-pod20.dealerinspire.com/hendrickvwfrisco/uploads/2023/02/mlp-img-top-2023-golf-r-temp.png",
+    "numeroPuertas": 4,
+    "motor": "1.8L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Camioneta 🚚",
+    "modelo": "Ford Explorer",
+    "caracteristicas": "Capacidad para 7 pasajeros, tracción en las 4 ruedas",
+    "imagen": "FordExplorer.png",
+    "numeroPuertas": 4,
+    "motor": "3.5L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Deportivo 🏎️",
+    "modelo": "Chevrolet Camaro",
+    "caracteristicas": "Potente motor V8, diseño deportivo",
+    "imagen": "ChevroletCamaro.png",
+    "numeroPuertas": 2,
+    "motor": "V8",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Sedán 🚗",
+    "modelo": "Honda Civic",
+    "caracteristicas": "Espacioso y eficiente en combustible",
+    "imagen": "https://vehicle-images.dealerinspire.com/stock-images/chrome/7b86c6e9e60a2b8f14fd207fe964e40e.png",
+    "numeroPuertas": 4,
+    "motor": "1.5L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "SUV 🚙",
+    "modelo": "Toyota RAV4",
+    "caracteristicas": "Estilo deportivo, ideal para la aventura",
+    "imagen": "ToyotaRAV4.png",
+    "numeroPuertas": 4,
+    "motor": "2.5L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Hatchback 🚗",
+    "modelo": "Mazda 3",
+    "caracteristicas": "Diseño elegante y deportivo, excelente manejo",
+    "imagen": "Mazda_3.png",
+    "numeroPuertas": 4,
+    "motor": "2.0L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Pickup 🚛",
+    "modelo": "Ford F-150",
+    "caracteristicas": "Resistente y duradero, capacidad de remolque",
+    "imagen": "Ford_F_150.png",
+    "numeroPuertas": 4,
+    "motor": "5.0L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Coupé 🏎️",
+    "modelo": "BMW Serie 2",
+    "caracteristicas": "Lujo y rendimiento en un diseño compacto",
+    "imagen": "BMW_Serie_2.png",
+    "numeroPuertas": 2,
+    "motor": "3.0L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Furgoneta 🚐",
+    "modelo": "Mercedes-Benz Sprinter",
+    "caracteristicas": "Gran capacidad de carga, ideal para negocios",
+    "imagen": "Mercedes_Benz_Sprinter.png",
+    "numeroPuertas": 4,
+    "motor": "2.1L",
+    "combustible": "Diesel"
+  },
+  {
+    "tipo": "Convertible 🚗",
+    "modelo": "Chevrolet Corvette",
+    "caracteristicas": "Estilo clásico y potencia deslumbrante",
+    "imagen": "ChevroletCorvette.png",
+    "numeroPuertas": 2,
+    "motor": "6.2L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "SUV 🚙",
+    "modelo": "BMW X5",
+    "caracteristicas": "5 asientos, potente motor y tecnología avanzada",
+    "imagen": "https://images.carprices.com/pricebooks_data/usa/colorized/2023/BMW/View2/X5_M/X5_M/23XK_300.png",
+    "numeroPuertas": 4,
+    "motor": "3.0L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Sedán 🚗",
+    "modelo": "Audi A4",
+    "caracteristicas": "Diseño elegante, tecnología de punta",
+    "imagen": "https://images.dealer.com/ddc/vehicles/2023/Audi/A4/Sedan/perspective/front-left/2023_76.png",
+    "numeroPuertas": 4,
+    "motor": "2.0L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Sedán 🚗",
+    "modelo": "Mercedes-Benz C-Class",
+    "caracteristicas": "Lujo y rendimiento en cada detalle",
+    "imagen": "https://images.dealer.com/ddc/vehicles/2023/Mercedes-Benz/C-Class/Coupe/perspective/front-left/2023_24.png",
+    "numeroPuertas": 4,
+    "motor": "2.0L",
+    "combustible": "Gasolina"
+  },
+  {
+    "tipo": "Eléctrico 🚗",
+    "modelo": "Tesla Model S",
+    "caracteristicas": "Rendimiento eléctrico, autonomía de largo alcance",
+    "imagen": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/52152/2024-Tesla-Model%20S-front_52152_032_1822x709_PPSB_cropped.png",
+    "numeroPuertas": 4,
+    "motor": "Eléctrico",
+    "combustible": "Eléctrico"
+  },
+  {
+    "tipo": "Sedán 🚗",
+    "modelo": "Nissan Altima",
+    "caracteristicas": "Tecnología avanzada, diseño aerodinámico",
+    "imagen": "https://di-uploads-pod42.dealerinspire.com/southparknissan/uploads/2023/11/2024-nissan-altima-main.png",
+    "numeroPuertas": 4,
+    "motor": "2.5L",
+    "combustible": "Gasolina"
+  }
 ]
