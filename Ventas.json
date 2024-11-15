@@ -1,0 +1,244 @@
+{
+  "ventas": [
+    {
+      "factura_id": 1,
+      "fecha_venta": "2024-10-25",
+      "cliente": {
+        "id_cliente": 101,
+        "nombre": "Auto Deal Santo Domingo",
+        "tipo": "Concesionario",
+        "ciudad": "Santo Domingo",
+        "codigo_ciudad": "SDQ",
+        "latitud": 18.4861,
+        "longitud": -69.9312
+      },
+      "vendedor": {
+        "id_vendedor": 201,
+        "nombre": "Carlos Perez",
+        "ciudades": [
+          {
+            "ciudad": "Santo Domingo",
+            "codigo_ciudad": "SDQ",
+            "latitud": 18.4861,
+            "longitud": -69.9312
+          },
+          {
+            "ciudad": "Boca Chica",
+            "codigo_ciudad": "BCQ",
+            "latitud": 18.4475,
+            "longitud": -69.6067
+          },
+          {
+            "ciudad": "San Cristóbal",
+            "codigo_ciudad": "SCQ",
+            "latitud": 18.4167,
+            "longitud": -70.1053
+          }
+        ]
+      },
+      "vehiculos_comprados": [
+        {
+          "modelo": "Toyota Corolla",
+          "precio": 24000,
+          "cantidad": 1
+        },
+        {
+          "modelo": "Honda CR-V",
+          "precio": 35000,
+          "cantidad": 1
+        }
+      ],
+      "total_venta": 59000
+    },
+    {
+      "factura_id": 2,
+      "fecha_venta": "2024-10-15",
+      "cliente": {
+        "id_cliente": 102,
+        "nombre": "Juan Rodriguez",
+        "tipo": "Persona",
+        "ciudad": "Santiago",
+        "codigo_ciudad": "STI",
+        "latitud": 19.4500,
+        "longitud": -70.7000
+      },
+      "vendedor": {
+        "id_vendedor": 202,
+        "nombre": "Ana Gomez",
+        "ciudades": [
+          {
+            "ciudad": "Santiago",
+            "codigo_ciudad": "STI",
+            "latitud": 19.4500,
+            "longitud": -70.7000
+          },
+          {
+            "ciudad": "Moca",
+            "codigo_ciudad": "MCQ",
+            "latitud": 19.3833,
+            "longitud": -70.5167
+          },
+          {
+            "ciudad": "La Vega",
+            "codigo_ciudad": "LVQ",
+            "latitud": 19.2231,
+            "longitud": -70.5283
+          }
+        ]
+      },
+      "vehiculos_comprados": [
+        {
+          "modelo": "Chevrolet Camaro",
+          "precio": 50000,
+          "cantidad": 1
+        }
+      ],
+      "total_venta": 50000
+    },
+    {
+      "factura_id": 3,
+      "fecha_venta": "2023-05-12",
+      "cliente": {
+        "id_cliente": 103,
+        "nombre": "Auto Import SRL",
+        "tipo": "Concesionario",
+        "ciudad": "La Romana",
+        "codigo_ciudad": "LRQ",
+        "latitud": 18.4333,
+        "longitud": -68.9667
+      },
+      "vendedor": {
+        "id_vendedor": 203,
+        "nombre": "Luis Martinez",
+        "ciudades": [
+          {
+            "ciudad": "La Romana",
+            "codigo_ciudad": "LRQ",
+            "latitud": 18.4333,
+            "longitud": -68.9667
+          },
+          {
+            "ciudad": "San Pedro de Macorís",
+            "codigo_ciudad": "SPM",
+            "latitud": 18.4500,
+            "longitud": -69.3000
+          },
+          {
+            "ciudad": "Higüey",
+            "codigo_ciudad": "HQG",
+            "latitud": 18.6153,
+            "longitud": -68.7072
+          }
+        ]
+      },
+      "vehiculos_comprados": [
+        {
+          "modelo": "Ford Explorer",
+          "precio": 40000,
+          "cantidad": 2
+        }
+      ],
+      "total_venta": 80000
+    },
+    {
+      "factura_id": 4,
+      "fecha_venta": "2022-09-20",
+      "cliente": {
+        "id_cliente": 104,
+        "nombre": "María Lopez",
+        "tipo": "Persona",
+        "ciudad": "San Francisco de Macorís",
+        "codigo_ciudad": "SFM",
+        "latitud": 19.3000,
+        "longitud": -70.2500
+      },
+      "vendedor": {
+        "id_vendedor": 204,
+        "nombre": "Rosa Santos",
+        "ciudades": [
+          {
+            "ciudad": "San Francisco de Macorís",
+            "codigo_ciudad": "SFM",
+            "latitud": 19.3000,
+            "longitud": -70.2500
+          },
+          {
+            "ciudad": "Nagua",
+            "codigo_ciudad": "NGQ",
+            "latitud": 19.3833,
+            "longitud": -69.8500
+          },
+          {
+            "ciudad": "Salcedo",
+            "codigo_ciudad": "SCQ",
+            "latitud": 19.3667,
+            "longitud": -70.4167
+          }
+        ]
+      },
+      "vehiculos_comprados": [
+        {
+          "modelo": "Mazda 3",
+          "precio": 22000,
+          "cantidad": 1
+        },
+        {
+          "modelo": "Volkswagen Golf",
+          "precio": 21000,
+          "cantidad": 1
+        }
+      ],
+      "total_venta": 43000
+    },
+    {
+      "factura_id": 5,
+      "fecha_venta": "2021-12-18",
+      "cliente": {
+        "id_cliente": 105,
+        "nombre": "Luxury Auto Import",
+        "tipo": "Concesionario",
+        "ciudad": "Puerto Plata",
+        "codigo_ciudad": "POP",
+        "latitud": 19.7953,
+        "longitud": -70.6944
+      },
+      "vendedor": {
+        "id_vendedor": 205,
+        "nombre": "Pedro Ramirez",
+        "ciudades": [
+          {
+            "ciudad": "Puerto Plata",
+            "codigo_ciudad": "POP",
+            "latitud": 19.7953,
+            "longitud": -70.6944
+          },
+          {
+            "ciudad": "Montecristi",
+            "codigo_ciudad": "MCQ",
+            "latitud": 19.8500,
+            "longitud": -71.6500
+          },
+          {
+            "ciudad": "Mao",
+            "codigo_ciudad": "MAQ",
+            "latitud": 19.5500,
+            "longitud": -71.0833
+          }
+        ]
+      },
+      "vehiculos_comprados": [
+        {
+          "modelo": "Audi A4",
+          "precio": 41000,
+          "cantidad": 1
+        },
+        {
+          "modelo": "Chevrolet Corvette",
+          "precio": 60000,
+          "cantidad": 1
+        }
+      ],
+      "total_venta": 101000
+    }
+  ]
+}
