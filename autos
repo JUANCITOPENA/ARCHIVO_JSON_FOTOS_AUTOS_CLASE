@@ -39,7 +39,7 @@
     "tipo": "Camioneta 🚚",
     "modelo": "Ford Explorer",
     "caracteristicas": "Capacidad para 7 pasajeros, tracción en las 4 ruedas",
-    "imagen": "FordExplorer.png",
+    "imagen": "https://islarentacar.net/wp-content/uploads/2021/03/explorer-2012-.0.png",
     "numeroPuertas": 4,
     "motor": "3.5L",
     "combustible": "Gasolina"
@@ -48,7 +48,7 @@
     "tipo": "Deportivo 🏎️",
     "modelo": "Chevrolet Camaro",
     "caracteristicas": "Potente motor V8, diseño deportivo",
-    "imagen": "ChevroletCamaro.png",
+    "imagen": "https://chevrolet.com.ph/wp-content/uploads/2022/06/camaro-Exterior-Crush-min.png",
     "numeroPuertas": 2,
     "motor": "V8",
     "combustible": "Gasolina"
@@ -66,7 +66,7 @@
     "tipo": "SUV 🚙",
     "modelo": "Toyota RAV4",
     "caracteristicas": "Estilo deportivo, ideal para la aventura",
-    "imagen": "ToyotaRAV4.png",
+    "imagen": "https://deltacomercial.com.do/cdn/modelos/rav4/43670b4254bab43b747ec25fbfdf3713.png",
     "numeroPuertas": 4,
     "motor": "2.5L",
     "combustible": "Gasolina"
@@ -75,7 +75,7 @@
     "tipo": "Hatchback 🚗",
     "modelo": "Mazda 3",
     "caracteristicas": "Diseño elegante y deportivo, excelente manejo",
-    "imagen": "Mazda_3.png",
+    "imagen": "https://di-uploads-pod2.dealerinspire.com/headquartermazdaspanishtoggle/uploads/2016/10/2017-Mazda3-Hatchback-On-White.png",
     "numeroPuertas": 4,
     "motor": "2.0L",
     "combustible": "Gasolina"
@@ -84,7 +84,7 @@
     "tipo": "Pickup 🚛",
     "modelo": "Ford F-150",
     "caracteristicas": "Resistente y duradero, capacidad de remolque",
-    "imagen": "Ford_F_150.png",
+    "imagen": "https://vehicle-images.dealerinspire.com/stock-images/ford/6e8545b98972a6fc71cb5386f12ed692.png",
     "numeroPuertas": 4,
     "motor": "5.0L",
     "combustible": "Gasolina"
@@ -93,7 +93,7 @@
     "tipo": "Coupé 🏎️",
     "modelo": "BMW Serie 2",
     "caracteristicas": "Lujo y rendimiento en un diseño compacto",
-    "imagen": "BMW_Serie_2.png",
+    "imagen": "https://corporate.sixt.com/es-es/wp-content/uploads/sites/9/2022/10/sixt.com-alquiler-de-bmw-x4-sixt.com-bmw-2er-coupe-2d-blau.png",
     "numeroPuertas": 2,
     "motor": "3.0L",
     "combustible": "Gasolina"
@@ -102,7 +102,7 @@
     "tipo": "Furgoneta 🚐",
     "modelo": "Mercedes-Benz Sprinter",
     "caracteristicas": "Gran capacidad de carga, ideal para negocios",
-    "imagen": "Mercedes_Benz_Sprinter.png",
+    "imagen": "https://www.motortrend.com/uploads/sites/10/2018/04/2018-mercedes-benz-sprinter-2500-170-wb-high-roof-passenger-van-angular-front.png",
     "numeroPuertas": 4,
     "motor": "2.1L",
     "combustible": "Diesel"
@@ -111,7 +111,7 @@
     "tipo": "Convertible 🚗",
     "modelo": "Chevrolet Corvette",
     "caracteristicas": "Estilo clásico y potencia deslumbrante",
-    "imagen": "ChevroletCorvette.png",
+    "imagen": "https://d3s2hob8w3xwk8.cloudfront.net/autos-landing/chevrolet/corvette-2023/colores/AMPLIFY-TINTCOAT.png",
     "numeroPuertas": 2,
     "motor": "6.2L",
     "combustible": "Gasolina"
