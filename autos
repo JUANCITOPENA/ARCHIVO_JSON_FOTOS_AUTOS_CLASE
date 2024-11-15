@@ -1,5 +1,6 @@
 [
   {
+    "codigo": 1001,
     "tipo": "Sedán 🚗",
     "modelo": "Toyota Corolla",
     "caracteristicas": "5 asientos, motor de 2.0L",
@@ -7,10 +8,11 @@
     "numeroPuertas": 4,
     "motor": "2.0L",
     "combustible": "Gasolina",
-    "categoria": "Sedán",
-    "precio": 24000
+    "categoria": "Económico",
+    "precio": 23500
   },
   {
+    "codigo": 1002,
     "tipo": "SUV 🚙",
     "modelo": "Honda CR-V",
     "caracteristicas": "7 asientos, tracción en las 4 ruedas",
@@ -18,10 +20,11 @@
     "numeroPuertas": 4,
     "motor": "2.4L",
     "combustible": "Gasolina",
-    "categoria": "SUV",
-    "precio": 35000
+    "categoria": "Intermedio",
+    "precio": 32000
   },
   {
+    "codigo": 1003,
     "tipo": "Deportivo 🏎️",
     "modelo": "Ford Mustang",
     "caracteristicas": "Potente motor V8, diseño aerodinámico",
@@ -29,10 +32,11 @@
     "numeroPuertas": 2,
     "motor": "V8",
     "combustible": "Gasolina",
-    "categoria": "Deportivo",
-    "precio": 55000
+    "categoria": "Deportivo Premium",
+    "precio": 45000
   },
   {
+    "codigo": 1004,
     "tipo": "Compacto 🚗",
     "modelo": "Volkswagen Golf",
     "caracteristicas": "4 asientos, económico y versátil",
@@ -40,10 +44,11 @@
     "numeroPuertas": 4,
     "motor": "1.8L",
     "combustible": "Gasolina",
-    "categoria": "Compacto",
-    "precio": 21000
+    "categoria": "Económico",
+    "precio": 25000
   },
   {
+    "codigo": 1005,
     "tipo": "Camioneta 🚚",
     "modelo": "Ford Explorer",
     "caracteristicas": "Capacidad para 7 pasajeros, tracción en las 4 ruedas",
@@ -51,10 +56,11 @@
     "numeroPuertas": 4,
     "motor": "3.5L",
     "combustible": "Gasolina",
-    "categoria": "Camioneta",
-    "precio": 40000
+    "categoria": "SUV Premium",
+    "precio": 45000
   },
   {
+    "codigo": 1006,
     "tipo": "Deportivo 🏎️",
     "modelo": "Chevrolet Camaro",
     "caracteristicas": "Potente motor V8, diseño deportivo",
@@ -62,10 +68,11 @@
     "numeroPuertas": 2,
     "motor": "V8",
     "combustible": "Gasolina",
-    "categoria": "Deportivo",
-    "precio": 50000
+    "categoria": "Deportivo Premium",
+    "precio": 42000
   },
   {
+    "codigo": 1007,
     "tipo": "Sedán 🚗",
     "modelo": "Honda Civic",
     "caracteristicas": "Espacioso y eficiente en combustible",
@@ -73,10 +80,11 @@
     "numeroPuertas": 4,
     "motor": "1.5L",
     "combustible": "Gasolina",
-    "categoria": "Sedán",
-    "precio": 23000
+    "categoria": "Económico",
+    "precio": 24000
   },
   {
+    "codigo": 1008,
     "tipo": "SUV 🚙",
     "modelo": "Toyota RAV4",
     "caracteristicas": "Estilo deportivo, ideal para la aventura",
@@ -84,10 +92,11 @@
     "numeroPuertas": 4,
     "motor": "2.5L",
     "combustible": "Gasolina",
-    "categoria": "SUV",
+    "categoria": "Intermedio",
     "precio": 33000
   },
   {
+    "codigo": 1009,
     "tipo": "Hatchback 🚗",
     "modelo": "Mazda 3",
     "caracteristicas": "Diseño elegante y deportivo, excelente manejo",
@@ -95,10 +104,11 @@
     "numeroPuertas": 4,
     "motor": "2.0L",
     "combustible": "Gasolina",
-    "categoria": "Hatchback",
-    "precio": 22000
+    "categoria": "Económico",
+    "precio": 25500
   },
   {
+    "codigo": 1010,
     "tipo": "Pickup 🚛",
     "modelo": "Ford F-150",
     "caracteristicas": "Resistente y duradero, capacidad de remolque",
@@ -106,10 +116,11 @@
     "numeroPuertas": 4,
     "motor": "5.0L",
     "combustible": "Gasolina",
-    "categoria": "Pickup",
-    "precio": 45000
+    "categoria": "Trabajo Premium",
+    "precio": 52000
   },
   {
+    "codigo": 1011,
     "tipo": "Coupé 🏎️",
     "modelo": "BMW Serie 2",
     "caracteristicas": "Lujo y rendimiento en un diseño compacto",
@@ -117,10 +128,11 @@
     "numeroPuertas": 2,
     "motor": "3.0L",
     "combustible": "Gasolina",
-    "categoria": "Coupé",
+    "categoria": "Lujo",
     "precio": 48000
   },
   {
+    "codigo": 1012,
     "tipo": "Furgoneta 🚐",
     "modelo": "Mercedes-Benz Sprinter",
     "caracteristicas": "Gran capacidad de carga, ideal para negocios",
@@ -128,10 +140,11 @@
     "numeroPuertas": 4,
     "motor": "2.1L",
     "combustible": "Diesel",
-    "categoria": "Furgoneta",
-    "precio": 42000
+    "categoria": "Comercial Premium",
+    "precio": 45000
   },
   {
+    "codigo": 1013,
     "tipo": "Convertible 🚗",
     "modelo": "Chevrolet Corvette",
     "caracteristicas": "Estilo clásico y potencia deslumbrante",
@@ -139,10 +152,11 @@
     "numeroPuertas": 2,
     "motor": "6.2L",
     "combustible": "Gasolina",
-    "categoria": "Convertible",
-    "precio": 60000
+    "categoria": "Superdeportivo",
+    "precio": 65000
   },
   {
+    "codigo": 1014,
     "tipo": "SUV 🚙",
     "modelo": "BMW X5",
     "caracteristicas": "5 asientos, potente motor y tecnología avanzada",
@@ -150,10 +164,11 @@
     "numeroPuertas": 4,
     "motor": "3.0L",
     "combustible": "Gasolina",
-    "categoria": "SUV",
+    "categoria": "Lujo Premium",
     "precio": 65000
   },
   {
+    "codigo": 1015,
     "tipo": "Sedán 🚗",
     "modelo": "Audi A4",
     "caracteristicas": "Diseño elegante, tecnología de punta",
@@ -161,10 +176,11 @@
     "numeroPuertas": 4,
     "motor": "2.0L",
     "combustible": "Gasolina",
-    "categoria": "Sedán",
-    "precio": 41000
+    "categoria": "Lujo",
+    "precio": 45000
   },
   {
+    "codigo": 1016,
     "tipo": "Sedán 🚗",
     "modelo": "Mercedes-Benz C-Class",
     "caracteristicas": "Lujo y rendimiento en cada detalle",
@@ -172,7 +188,31 @@
     "numeroPuertas": 4,
     "motor": "2.0L",
     "combustible": "Gasolina",
-    "categoria": "Sedán",
-    "precio": 43000
+    "categoria": "Lujo Premium",
+    "precio": 48000
+  },
+  {
+    "codigo": 1017,
+    "tipo": "Eléctrico 🚗",
+    "modelo": "Tesla Model S",
+    "caracteristicas": "Rendimiento eléctrico, autonomía de largo alcance",
+    "imagen": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/52152/2024-Tesla-Model%20S-front_52152_032_1822x709_PPSB_cropped.png",
+    "numeroPuertas": 4,
+    "motor": "Eléctrico",
+    "combustible": "Eléctrico",
+    "categoria": "Lujo Premium Eléctrico",
+    "precio": 85000
+  },
+  {
+    "codigo": 1018,
+    "tipo": "Sedán 🚗",
+    "modelo": "Nissan Altima",
+    "caracteristicas": "Tecnología avanzada, diseño aerodinámico",
+    "imagen": "https://di-uploads-pod42.dealerinspire.com/southparknissan/uploads/2023/11/2024-nissan-altima-main.png",
+    "numeroPuertas": 4,
+    "motor": "2.5L",
+    "combustible": "Gasolina",
+    "categoria": "Intermedio",
+    "precio": 27000
   }
 ]
