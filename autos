@@ -6,7 +6,9 @@
     "imagen": "https://di-uploads-pod7.dealerinspire.com/toyotaofnorthmiami/uploads/2022/10/2023-GR-Corolla-1.png",
     "numeroPuertas": 4,
     "motor": "2.0L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Sedán",
+    "precio": 24000
   },
   {
     "tipo": "SUV 🚙",
@@ -15,7 +17,9 @@
     "imagen": "https://vehicle-images.dealerinspire.com/stock-images/chrome/7b86c6e9e60a2b8f14fd207fe964e40e.png",
     "numeroPuertas": 4,
     "motor": "2.4L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "SUV",
+    "precio": 35000
   },
   {
     "tipo": "Deportivo 🏎️",
@@ -24,7 +28,9 @@
     "imagen": "https://platform.cstatic-images.com/in/v2/stock_photos/6fc391c8-2e8b-4854-b84c-3c94c431fb19/ca5e1b68-4c6b-403b-b95a-a77a6f529da5.png",
     "numeroPuertas": 2,
     "motor": "V8",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Deportivo",
+    "precio": 55000
   },
   {
     "tipo": "Compacto 🚗",
@@ -33,7 +39,9 @@
     "imagen": "https://di-uploads-pod20.dealerinspire.com/hendrickvwfrisco/uploads/2023/02/mlp-img-top-2023-golf-r-temp.png",
     "numeroPuertas": 4,
     "motor": "1.8L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Compacto",
+    "precio": 21000
   },
   {
     "tipo": "Camioneta 🚚",
@@ -42,7 +50,9 @@
     "imagen": "https://islarentacar.net/wp-content/uploads/2021/03/explorer-2012-.0.png",
     "numeroPuertas": 4,
     "motor": "3.5L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Camioneta",
+    "precio": 40000
   },
   {
     "tipo": "Deportivo 🏎️",
@@ -51,7 +61,9 @@
     "imagen": "https://chevrolet.com.ph/wp-content/uploads/2022/06/camaro-Exterior-Crush-min.png",
     "numeroPuertas": 2,
     "motor": "V8",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Deportivo",
+    "precio": 50000
   },
   {
     "tipo": "Sedán 🚗",
@@ -60,7 +72,9 @@
     "imagen": "https://vehicle-images.dealerinspire.com/stock-images/chrome/7b86c6e9e60a2b8f14fd207fe964e40e.png",
     "numeroPuertas": 4,
     "motor": "1.5L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Sedán",
+    "precio": 23000
   },
   {
     "tipo": "SUV 🚙",
@@ -69,7 +83,9 @@
     "imagen": "https://deltacomercial.com.do/cdn/modelos/rav4/43670b4254bab43b747ec25fbfdf3713.png",
     "numeroPuertas": 4,
     "motor": "2.5L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "SUV",
+    "precio": 33000
   },
   {
     "tipo": "Hatchback 🚗",
@@ -78,7 +94,9 @@
     "imagen": "https://di-uploads-pod2.dealerinspire.com/headquartermazdaspanishtoggle/uploads/2016/10/2017-Mazda3-Hatchback-On-White.png",
     "numeroPuertas": 4,
     "motor": "2.0L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Hatchback",
+    "precio": 22000
   },
   {
     "tipo": "Pickup 🚛",
@@ -87,7 +105,9 @@
     "imagen": "https://vehicle-images.dealerinspire.com/stock-images/ford/6e8545b98972a6fc71cb5386f12ed692.png",
     "numeroPuertas": 4,
     "motor": "5.0L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Pickup",
+    "precio": 45000
   },
   {
     "tipo": "Coupé 🏎️",
@@ -96,7 +116,9 @@
     "imagen": "https://corporate.sixt.com/es-es/wp-content/uploads/sites/9/2022/10/sixt.com-alquiler-de-bmw-x4-sixt.com-bmw-2er-coupe-2d-blau.png",
     "numeroPuertas": 2,
     "motor": "3.0L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Coupé",
+    "precio": 48000
   },
   {
     "tipo": "Furgoneta 🚐",
@@ -105,7 +127,9 @@
     "imagen": "https://www.motortrend.com/uploads/sites/10/2018/04/2018-mercedes-benz-sprinter-2500-170-wb-high-roof-passenger-van-angular-front.png",
     "numeroPuertas": 4,
     "motor": "2.1L",
-    "combustible": "Diesel"
+    "combustible": "Diesel",
+    "categoria": "Furgoneta",
+    "precio": 42000
   },
   {
     "tipo": "Convertible 🚗",
@@ -114,7 +138,9 @@
     "imagen": "https://d3s2hob8w3xwk8.cloudfront.net/autos-landing/chevrolet/corvette-2023/colores/AMPLIFY-TINTCOAT.png",
     "numeroPuertas": 2,
     "motor": "6.2L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Convertible",
+    "precio": 60000
   },
   {
     "tipo": "SUV 🚙",
@@ -123,7 +149,9 @@
     "imagen": "https://images.carprices.com/pricebooks_data/usa/colorized/2023/BMW/View2/X5_M/X5_M/23XK_300.png",
     "numeroPuertas": 4,
     "motor": "3.0L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "SUV",
+    "precio": 65000
   },
   {
     "tipo": "Sedán 🚗",
@@ -132,7 +160,9 @@
     "imagen": "https://images.dealer.com/ddc/vehicles/2023/Audi/A4/Sedan/perspective/front-left/2023_76.png",
     "numeroPuertas": 4,
     "motor": "2.0L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Sedán",
+    "precio": 41000
   },
   {
     "tipo": "Sedán 🚗",
@@ -141,24 +171,8 @@
     "imagen": "https://images.dealer.com/ddc/vehicles/2023/Mercedes-Benz/C-Class/Coupe/perspective/front-left/2023_24.png",
     "numeroPuertas": 4,
     "motor": "2.0L",
-    "combustible": "Gasolina"
-  },
-  {
-    "tipo": "Eléctrico 🚗",
-    "modelo": "Tesla Model S",
-    "caracteristicas": "Rendimiento eléctrico, autonomía de largo alcance",
-    "imagen": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/52152/2024-Tesla-Model%20S-front_52152_032_1822x709_PPSB_cropped.png",
-    "numeroPuertas": 4,
-    "motor": "Eléctrico",
-    "combustible": "Eléctrico"
-  },
-  {
-    "tipo": "Sedán 🚗",
-    "modelo": "Nissan Altima",
-    "caracteristicas": "Tecnología avanzada, diseño aerodinámico",
-    "imagen": "https://di-uploads-pod42.dealerinspire.com/southparknissan/uploads/2023/11/2024-nissan-altima-main.png",
-    "numeroPuertas": 4,
-    "motor": "2.5L",
-    "combustible": "Gasolina"
+    "combustible": "Gasolina",
+    "categoria": "Sedán",
+    "precio": 43000
   }
 ]
